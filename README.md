@@ -12,3 +12,6 @@ The base case f(1) and f(2) have been defined and the rest is done by f(n) = f(n
 
 License:
 Attribution-ShareAlike 2.0 Generic - http://creativecommons.org/licenses/by-sa/2.0/
+
+
+![Fibonuino](https://f.cloud.github.com/assets/1190146/344513/c3f3e4e8-9e02-11e2-8375-6f5de92efa32.jpg)
