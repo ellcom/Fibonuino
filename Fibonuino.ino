@@ -5,7 +5,7 @@
 
 
 // Define the LED pin
-unsigned const int led = 13;
+const byte led = 13;
 // Set up the vars for the fib seq & sort the base case
 unsigned long last = 2;
 unsigned long lastlast = 1;
