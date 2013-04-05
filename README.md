@@ -1,4 +1,4 @@
-Fibonuio
+Fibonuino
 ========
 
 Arduino Fibonacci LED Blinker
